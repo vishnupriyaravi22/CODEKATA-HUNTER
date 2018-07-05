@@ -8,12 +8,12 @@ void main()
 {
     int i, j, l, l1, l2;
  
-    printf("\nEnter a string : ");
+    =
     scanf("%[^\n]s", str);
  
     l1 = strlen(str);
  
-    printf("\nEnter a substring : ");
+ =
     scanf(" %[^\n]s", sub);
  
     l2 = strlen(sub);
